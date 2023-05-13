@@ -1,0 +1,6 @@
+kullanici adi yiğit
+yas=19,kilo=90.0,boy=180.0  
+deger aralığı: Zayıf kilolu
+vki 0.0
+tarih Sat May  6 11:37:35 2023
+--------------------
